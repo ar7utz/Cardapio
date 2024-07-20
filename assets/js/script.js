@@ -138,7 +138,7 @@ checkoutBtn.addEventListener("click", function(){
             stopOnFocus: true,
             style: {
               background: "#ef4444",
-            },       
+            },
         }).showToast();
     }
 
